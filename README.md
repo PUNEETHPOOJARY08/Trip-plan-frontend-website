@@ -3,3 +3,4 @@ A clean and responsive Trip Planner website built with HTML and CSS, featuring a
 # Technologies Used
 HTML5
 CSS3
+
